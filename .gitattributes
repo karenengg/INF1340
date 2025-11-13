@@ -2,3 +2,4 @@
 * text=auto
 *.csv filter=lfs diff=lfs merge=lfs -text
 bikeshare-ridership-2023/data/*.csv filter=lfs diff=lfs merge=lfs -text
+bikeshare-ridership-2023/*.csv filter=lfs diff=lfs merge=lfs -text
